@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmarSSpy
 - 👀 I’m interested in Web Development and Low Level programming
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started coding at 8 years old
