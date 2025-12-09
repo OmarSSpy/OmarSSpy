@@ -6,7 +6,7 @@ Hello, my name is Omar and I am a secondary school student in Argentina.
 
 ## Education ##
 
-* Currently attending high school
+* Currently attending secondary school
   
 * CS50 :
   *  CS50x 
